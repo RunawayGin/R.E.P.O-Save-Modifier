@@ -79,7 +79,7 @@ You can either download a pre-built release (if available) or run from source.
 
 *   **Clone the repository:**
     ```bash
-    git clone https://github.com/RunawayGin/repo-save-modifier.git <!-- Update link -->
+    git clone https://github.com/RunawayGin/R.E.P.O-Save-Modifier.git
     cd repo-save-modifier
     ```
 *   **Create a virtual environment (Recommended):**
