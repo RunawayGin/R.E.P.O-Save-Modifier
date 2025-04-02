@@ -79,7 +79,7 @@ You can either download a pre-built release (if available) or run from source.
 
 *   **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/repo-save-modifier.git <!-- Update link -->
+    git clone https://github.com/RunawayGin/repo-save-modifier.git <!-- Update link -->
     cd repo-save-modifier
     ```
 *   **Create a virtual environment (Recommended):**
@@ -95,7 +95,7 @@ You can either download a pre-built release (if available) or run from source.
     ```bash
     pip install -r requirements.txt
     ```
-    *(If `requirements.txt` is missing, you can generate it from the source files or install manually: `pip install PySide6 pycryptodomex requests`)*
+   
 *   **Run the application:**
     ```bash
     python main.py
