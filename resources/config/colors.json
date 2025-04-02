@@ -1,0 +1,32 @@
+{
+  "dark_theme": {
+    "COLOR_DARK_ONE": "#1b1e23",
+    "COLOR_DARK_TWO": "#272c36",
+    "COLOR_DARK_THREE": "#2c313c",
+    "COLOR_DARK_FOUR": "#343b48",
+    "COLOR_BLUE_ONE": "#568af2",
+    "COLOR_TEXT_FOREGROUND": "#8a95aa",
+    "COLOR_TEXT_ACTIVE": "#dce1ec",
+    "COLOR_SIDEBAR_BG": "#20242c"
+  },
+  "blue_theme": {
+    "COLOR_DARK_ONE": "#1a1b26",
+    "COLOR_DARK_TWO": "#24283b",
+    "COLOR_DARK_THREE": "#2c3149",
+    "COLOR_DARK_FOUR": "#353b5e",
+    "COLOR_BLUE_ONE": "#7aa2f7",
+    "COLOR_TEXT_FOREGROUND": "#9aa5ce",
+    "COLOR_TEXT_ACTIVE": "#c0caf5",
+    "COLOR_SIDEBAR_BG": "#16161e"
+  },
+  "green_theme": {
+    "COLOR_DARK_ONE": "#0f2027",
+    "COLOR_DARK_TWO": "#203a43",
+    "COLOR_DARK_THREE": "#2c5364",
+    "COLOR_DARK_FOUR": "#366d7e",
+    "COLOR_BLUE_ONE": "#26a69a",
+    "COLOR_TEXT_FOREGROUND": "#90a4ae",
+    "COLOR_TEXT_ACTIVE": "#e0f7fa",
+    "COLOR_SIDEBAR_BG": "#0a1a20"
+  }
+}
