@@ -80,7 +80,7 @@ You can either download a pre-built release (if available) or run from source.
 *   **Clone the repository:**
     ```bash
     git clone https://github.com/RunawayGin/R.E.P.O-Save-Modifier.git
-    cd repo-save-modifier
+    cd R.E.P.O-Save-Modifier
     ```
 *   **Create a virtual environment (Recommended):**
     ```bash
