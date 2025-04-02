@@ -15,7 +15,7 @@ A desktop application built with Python and PySide6 for editing save files for t
   <img src="https://github.com/user-attachments/assets/38197bcd-ab21-4510-aa23-03ae346a0cda" alt="Home Screen" width="500"/><br>
   <img src="https://github.com/user-attachments/assets/0fc365e9-7ca3-44b1-825b-0e878406178a" alt="Game Stats" width="500"/><br>
   <img src="https://github.com/user-attachments/assets/5ee8102e-9958-4fef-8267-3110bccf9523" alt="Player Stats" width="500"/><br>
-  <img src="https://github.com/user-attachments/assets/344aee10-2e7a-4ce7-8f35-6a9b2c5e532c" alt="Advanced Player Stats" width="500"/><br>
+  <img src="https://github.com/user-attachments/assets/03413722-18bc-45e3-b572-1c1aafcbc2b2" alt="Player Stats Extended" width="500"/><br>
   <img src="https://github.com/user-attachments/assets/0bc8e457-8919-4aea-bfe8-a9628034690a" alt="Add Cached Users" width="500"/><br>
   <img src="https://github.com/user-attachments/assets/cc7696ba-b862-4da2-91a1-06f59577b5fe" alt="Add Users Steam ID" width="500"/><br>
   <img src="https://github.com/user-attachments/assets/64c1f3c0-b5a0-42f6-9d05-f4ced9487d45" alt="items editor" width="500"/>
@@ -71,8 +71,8 @@ You can either download a pre-built release (if available) or run from source.
 
 **1. From Release (Recommended)**
 
-*   Go to the [Releases](https://github.com/your-username/repo-save-modifier/releases) page of this repository. <!-- Update link -->
-*   Download the latest release suitable for your operating system (e.g., `.exe` for Windows).
+*   Go to the [Releases](https://github.com/RunawayGin/R.E.P.O-Save-Modifier/releases) page of this repository.
+*   Download the latest release
 *   Run the downloaded executable.
 
 **2. From Source**
@@ -135,7 +135,7 @@ Contributions are welcome! If you find a bug or have a feature request, please o
 
 ## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. <!-- Make sure you add a LICENSE file (e.g., containing the MIT License text) -->
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements 🙏
 
